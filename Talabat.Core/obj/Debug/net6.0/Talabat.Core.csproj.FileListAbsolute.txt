@@ -1,0 +1,12 @@
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache

@@ -1,0 +1,17 @@
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.deps.json
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.dll
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.pdb
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfoInputs.cache
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfo.cs
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.dll
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\obj\Debug\net6.0\refint\Talabat.Services.dll
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.pdb
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\obj\Debug\net6.0\ref\Talabat.Services.dll
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.AssemblyReference.cache
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Core.dll
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Repository.dll
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Repository.pdb
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ASP.NET Route Academy\06 API\Demo Api\Talabat.APIs.Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CopyComplete
